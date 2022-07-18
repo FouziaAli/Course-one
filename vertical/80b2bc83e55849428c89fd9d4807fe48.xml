@@ -1,0 +1,3 @@
+<vertical display_name="sorting block">
+  <sortable url_name="020260e3bd1f47a68a653916f87b79e7" xblock-family="xblock.v1" display_name="Sorting Problem" max_attempts="10" data="[&#10;  &quot;ALPHA&quot;,&#10;  &quot;BETA&quot;,&#10;  &quot;DELTA&quot;,&#10;  &quot;CHARLIE&quot;,&#10;  &quot;HEXA&quot;,&#10;  &quot;GEMA&quot;&#10;]" item_background_color="#f2f2f2" item_text_color="#000000" question_text="Sort the following  names in alphabetical order" weight="1.0"/>
+</vertical>

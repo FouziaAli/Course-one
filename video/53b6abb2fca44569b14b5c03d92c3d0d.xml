@@ -1,0 +1,10 @@
+<video youtube="1.00:WqfqyzUehwQ" url_name="53b6abb2fca44569b14b5c03d92c3d0d" sub="" transcripts="{&quot;en&quot;: &quot;00cb9e5a-41cd-49a2-bb70-f9d9b6db87d5-en.srt&quot;, &quot;nl&quot;: &quot;00cb9e5a-41cd-49a2-bb70-f9d9b6db87d5-nl.srt&quot;}" display_name="Video" edx_video_id="00cb9e5a-41cd-49a2-bb70-f9d9b6db87d5" html5_sources="[]" youtube_id_1_0="WqfqyzUehwQ">
+  <video_asset client_video_id="external video" duration="0.0" image="">
+    <transcripts>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
+      <transcript language_code="nl" file_format="srt" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="00cb9e5a-41cd-49a2-bb70-f9d9b6db87d5-en.srt"/>
+  <transcript language="nl" src="00cb9e5a-41cd-49a2-bb70-f9d9b6db87d5-nl.srt"/>
+</video>

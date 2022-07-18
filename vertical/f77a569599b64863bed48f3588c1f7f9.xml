@@ -1,0 +1,3 @@
+<vertical display_name="testing sorting block">
+  <sortable url_name="858c5bbf2ac047caade7ff1789c55af7" xblock-family="xblock.v1" display_name="Sorting Problem" max_attempts="5" data="[&#10;  &quot;ARABIC&quot;,&#10;  &quot;ENGLISH&quot;,&#10;  &quot;URDU&quot;,&#10;  &quot;SPANISH&quot;,&#10;  &quot;FRENCH&quot;&#10;]" item_background_color="#f2f2f2" item_text_color="#000000" question_text="Sort the following names in alphabetical order, You can drag the options!" weight="10.0"/>
+</vertical>

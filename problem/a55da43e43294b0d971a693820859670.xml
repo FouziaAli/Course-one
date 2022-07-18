@@ -1,0 +1,10 @@
+<problem display_name="Base course editing" markdown="&gt;&gt;Just Edit the basic course content  &lt;&lt;&#10;[[&#10;KIT&#10;(ABS)&#10;SSS&#10;]]&#10;">
+  <optionresponse>
+    <label>Just Edit the basic course content  </label>
+    <optioninput>
+      <option correct="False">KIT</option>
+      <option correct="True">ABS</option>
+      <option correct="False">SSS</option>
+    </optioninput>
+  </optionresponse>
+</problem>
